@@ -1,0 +1,20 @@
+{
+    "Author": "Jay Avent",
+    "ContentSize": 3277,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stopvms-based-on-priority-tag/master/Stop-VMs.ps1",
+    "DownloadCount": 1226,
+    "Id": "Stop-VMs-based-on-priority-fb73f0f3",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 416,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-4-28T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook stops all of the virtual machines in the specified Azure Resource Group, in order, based on the value of the Priority tag.It is particularly useful for CSP (Cloud Solution Provider) customers, or users who have multiple subscriptions/tenants.",
+    "Title": "Stop-VMs based on priority tag",
+    "UpdatedDate": "2016-4-28T00:00:00",
+    "Url": "https://github.com/azureautomation/stopvms-based-on-priority-tag",
+    "UserTags": ""
+}
